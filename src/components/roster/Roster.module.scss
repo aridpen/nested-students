@@ -1,0 +1,16 @@
+.roster {
+  min-height: 100vh;
+  padding: 25px;
+  background-color: #03120e;
+  color: #8ab0ab;
+}
+
+.title {
+  font-size: 3.5rem;
+  margin-left: 25px;
+}
+.studentContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
